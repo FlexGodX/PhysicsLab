@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-16",
+  "source": {
+    "name": "Физика_план_на_16_октября.pdf",
+    "pages": 17,
+    "sha256": "6828c3266240a56df55a8cc82a4c7dae67f0cb0db451fbb6423a9a6b2bf29a86",
+    "published_original": false
+  },
+  "modules": 10,
+  "questions": 53,
+  "linked_existing_topics": 27,
+  "checks": {
+    "unit": {
+      "files": 25,
+      "passed": 111
+    },
+    "root_browser": {
+      "passed": 3
+    },
+    "hosted_browser": {
+      "passed": 14
+    },
+    "root_build": "passed",
+    "hosted_typecheck": "passed",
+    "hosted_production_build": "passed",
+    "source_pdf_rendered_pages": 17,
+    "math_parse": "passed, strict KaTeX for every new section formula",
+    "mobile": "all ten modules, 360px, no horizontal document overflow",
+    "backup": "read sections and score roundtrip, no bundled content copied into customModules",
+    "legacy_lms": "unchanged module IDs and questions; existing browser scenarios passed"
+  },
+  "manual_acceptance": "not requested per user instruction",
+  "deployment": {
+    "version": 4,
+    "status": "succeeded",
+    "commit": "5d61234f609e4afe02b08edb345a4825dee920cf",
+    "url": "https://physics-in-action-lab.young-isle-4822.chatgpt.site/",
+    "audience": "public, unchanged",
+    "browser_verified": true,
+    "delivery_note": "Initial transient 404 on three chunks after publication; subsequent requests returned 200 and matched built files. Reloaded published site and verified all ten modules in the course.",
+    "screenshot": "docs/verification/2026-10-16-day-plan.png"
+  }
+}

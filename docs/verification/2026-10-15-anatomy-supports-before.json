@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-15T17:25:22.095Z",
+  "scope": "Rounded slab support and penetration only; bevel faces, screws, spring wire and painter order are not certified",
+  "states": [
+    {
+      "mechanism": "spring",
+      "pose": 0,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "spring",
+      "pose": 25,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "spring",
+      "pose": 50,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "spring",
+      "pose": 75,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "spring",
+      "pose": 100,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "lever",
+      "pose": 10,
+      "solids": 38,
+      "loose": [],
+      "hanging": [],
+      "sunk": [
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:30",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:36",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:29",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:35",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:31",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:37",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:28",
+          "depth": 1.2162162162162176
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:34",
+          "depth": 1.2162162162162176
+        }
+      ]
+    },
+    {
+      "mechanism": "lever",
+      "pose": 20,
+      "solids": 38,
+      "loose": [],
+      "hanging": [],
+      "sunk": [
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:30",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:36",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:29",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:35",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:31",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:37",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:28",
+          "depth": 1.2162162162162176
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:34",
+          "depth": 1.2162162162162176
+        }
+      ]
+    },
+    {
+      "mechanism": "lever",
+      "pose": 30,
+      "solids": 38,
+      "loose": [],
+      "hanging": [],
+      "sunk": [
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:30",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:36",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:29",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:35",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:31",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:37",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:28",
+          "depth": 1.2162162162162176
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:34",
+          "depth": 1.2162162162162176
+        }
+      ]
+    },
+    {
+      "mechanism": "lever",
+      "pose": 40,
+      "solids": 38,
+      "loose": [],
+      "hanging": [],
+      "sunk": [
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:30",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:36",
+          "depth": 1.4864864864864842
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:29",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:35",
+          "depth": 1.3513513513513544
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:31",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:37",
+          "depth": 1.3243243243243228
+        },
+        {
+          "a": "leverArt:26",
+          "b": "leverArt:28",
+          "depth": 1.2162162162162176
+        },
+        {
+          "a": "loadArt:32",
+          "b": "loadArt:34",
+          "depth": 1.2162162162162176
+        }
+      ]
+    }
+  ]
+}

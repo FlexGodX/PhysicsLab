@@ -1,0 +1,539 @@
+{
+  "at": "2026-10-15T21:34:08.656Z",
+  "browser": "Google Chrome",
+  "version": "155.0.8059.39",
+  "channel": "chrome",
+  "platform": "darwin",
+  "mode": "headless, isolated browser contexts",
+  "configurationOverride": {
+    "projects": [
+      {
+        "name": "chrome",
+        "use": {
+          "browserName": "chromium",
+          "channel": "chrome"
+        }
+      }
+    ]
+  },
+  "stats": {
+    "startTime": "2026-10-15T21:32:06.266Z",
+    "duration": 31551.865,
+    "expected": 47,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "passed": true,
+  "reproduce": "npm run e2e:chrome -- --workers=3",
+  "reportSha256": "6674dcbea423ae89abf084cd9eb95a875581a6de6339da2bbaafd5091ac2c458",
+  "specs": [
+    {
+      "file": "accessibility.spec.ts",
+      "title": "курс, объяснение и лаборатория проходят автоматическую проверку доступности",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "accessibility.spec.ts",
+      "title": "все учебные объяснения доступны на экране 360 px",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "codex.spec.ts",
+      "title": "Codex подключается без API-ключа и отвечает в учебном чате",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "codex.spec.ts",
+      "title": "загрузка настроек не позволяет позднему ответу сбросить выбор сервиса",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "data.spec.ts",
+      "title": "JSON переносит ответ в чистый профиль; повреждённый импорт его не меняет",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "data.spec.ts",
+      "title": "печать исключает невыбранные записи и сохраняет сведения о самостоятельности",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "data.spec.ts",
+      "title": "отказ IndexedDB оставляет рабочую тренировку и доступный экспорт",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "data.spec.ts",
+      "title": "уменьшение движения сохраняет доступный с клавиатуры шаг",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "data.spec.ts",
+      "title": "отказ записи во время замены оставляет прежнюю историю в интерфейсе",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "diagnostics.spec.ts",
+      "title": "диагностика сохраняет пропуск отдельно от незнания и не подтверждает модуль",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "import-selection.spec.ts",
+      "title": "медленное чтение первой копии не подменяет последнюю; сводка показывает личные записи",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "K1: опыт сохраняется и восстанавливается; число и единица проверяются отдельно",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "страница работает при ширине 360 px",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "пять самостоятельных ответов подтверждают K1; следующая проверка меняет вариант",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "подсказка не забывается при переходе к объяснению",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "пауза блокирует время, изменение условий начинает новый опыт",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "вторая вкладка читает, после закрытия первой получает запись",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "подсказка остаётся учебной после перезагрузки страницы",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "k1.spec.ts",
+      "title": "восстановительный разбор остаётся учебным и возвращает к другому варианту",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "measurement-presets.spec.ts",
+      "title": "пресеты разброса сравнивают одинаковые условия и воспроизводят серию",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "model-controls.spec.ts",
+      "title": "сброс серии возвращает начальный виртуальный прибор из ручного и изменённого режима",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "model-controls.spec.ts",
+      "title": "световые часы поддерживают темп 0,5× без изменения показаний",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "model-controls.spec.ts",
+      "title": "цепь поддерживает темп 0,5× и продолжает счёт энергии без смены условий",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "models.spec.ts",
+      "title": "площадка переключает модели с согласованными контрольными значениями",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "models.spec.ts",
+      "title": "настройка газа сохраняется отдельным опытом и восстанавливается после перезагрузки",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "models.spec.ts",
+      "title": "свет после отражения оставляет ломаную траекторию",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "models.spec.ts",
+      "title": "сравнение после сохранения второго опыта сохраняет первый как основание",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "models.spec.ts",
+      "title": "опыты всех пяти лабораторий переносятся в чистый профиль без потери снимков",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "modules.spec.ts",
+      "title": "T1 открывается из курса, проверяется и сохраняет самостоятельное подтверждение",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "modules.spec.ts",
+      "title": "каждый модуль открывает свою лабораторию",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "playback-frame.spec.ts",
+      "title": "активная сцена отображает рассчитанное состояние в текущем кадре",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "playground.spec.ts",
+      "title": "условие опыта показывает исходные данные и обновляется вместе с параметрами",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "playground.spec.ts",
+      "title": "игровая площадка запускает свободный опыт и даёт совет по текущим условиям",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "review.spec.ts",
+      "title": "короткое повторение состоит из вопроса и задачи и не подменяет проверку модуля",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "studio.spec.ts",
+      "title": "DOCX создаёт модуль, прохождение сохраняется и появляется в результатах",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "studio.spec.ts",
+      "title": "PDF извлекается, генерация через API создаёт проверяемый модуль",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "studio.spec.ts",
+      "title": "чат сохраняет обсуждение темы и экранирует ответ модели",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "studio.spec.ts",
+      "title": "Anatomy управляется клавиатурой, сохраняет новую иллюстрацию и помещается на телефоне",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "studio.spec.ts",
+      "title": "новая Anatomy-сцена связывает детали, формулу и сохранение",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "vector-view.spec.ts",
+      "title": "linear: вид векторов меняется без сброса условий и времени",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "vector-view.spec.ts",
+      "title": "circular: вид векторов меняется без сброса условий и времени",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "vector-view.spec.ts",
+      "title": "управление видом доступно во время движения и помещается на телефоне",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "visualization-research.spec.ts",
+      "title": "создаёт модель на площадке, фиксирует исследование, переносит и воспроизводит снимок",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "visualization-research.spec.ts",
+      "title": "новая сцена исследуется серией на телефоне и сохраняет исходный промпт",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "visualization-research.spec.ts",
+      "title": "неподдерживаемая тема сохраняет запрос для уточнения",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "workspace-validation.spec.ts",
+      "title": "неверный снимок не заменяет данные при доступном IndexedDB",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    },
+    {
+      "file": "workspace-validation.spec.ts",
+      "title": "неверный снимок не заменяет данные при отказе IndexedDB",
+      "passed": true,
+      "project": [
+        "chrome"
+      ]
+    }
+  ],
+  "sourceSha256": {
+    "src/content/archive.ts": "bf8dcef86e970c33a4676575a5045f8e2a09ce601c6c890d2c6030046f4ad13f",
+    "src/content/course.ts": "f0c85c7b86b054fa93ba2924fa2a26910e9b0e627920fd6e1713de3c3b193dc4",
+    "src/content/diagnostics.ts": "05838a2d51e0d83999006b9939d1c9e3d15d53273e09055182a0233cce0b48bd",
+    "src/content/k1.ts": "73532a22e81d02ab07c665f759d8d3f606208f25e8077c13a839dd0a09fe8955",
+    "src/content/modelMetrics.ts": "8aea59f0d07936a160543d0dd33d8018b2dceb248836a9360b2e83cacbf732dd",
+    "src/content/modules.ts": "06ca093e358920c0f6ebd3c837dd0c8ad1e6245aaed8a79803c7b5c0e484595e",
+    "src/content/registry.ts": "b5f1bf68e7531361d10c66110ba9dbe3efd78656dcfbea5f53791f583a3a0d2b",
+    "src/content/types.ts": "fa5941d5921154a34b768ba595ed45c0b4ef2c660285576718a290f68f2f82b7",
+    "src/figures/experiment.ts": "ff956f5d0a1b762d45881d13e2dd536e145f49bc8eb1eb7112db039e60150e2e",
+    "src/figures/geometry.tsx": "3133e4afdd02828fb3b07378e91f32ae8d7508e023b21a8bf43d02c29b2a411f",
+    "src/figures/kit/iso-kit.ts": "e9fc988c61a11bfac1f097e62419915ea86b2130ab091f1b50c0e019c907e253",
+    "src/figures/kit/iso.css": "ef19bac5a42ba9be42b56b2c1cf7fc7e21d332a8060765e9ca1d987b8ab23924",
+    "src/figures/model.ts": "4c20b683199587f50b34ae8380ab7d71dc1b9bf4c5bd03cb10f6c51dfbf8c24f",
+    "src/figures/scene.ts": "a47d5b2c9c843b7736afb8de7a154de6f6fe424f0fbc9ac788f7eff0c791fd76",
+    "src/figures/springWire.ts": "2b291322062dabbc0daeea95fe0c3a21c6f59939fa0a3299bd59a924f64ef7bb",
+    "src/learning/assessment.ts": "aa8a03dba329d204554f96cd1c749f9217923ac6ba1ee2fd3d2f3723cbacd2cc",
+    "src/learning/experimentAdvice.ts": "b10abaf3709772e77770f4d98e0ae3edd69b093fdbe3ad27121b5f52c6c074ee",
+    "src/learning/modelAdvice.ts": "2d744b2fbcd12baa8255af6aeef822c8cced8f5c9a69799a18d3d7269d9a808e",
+    "src/learning/progress.ts": "0d3bc9b5210dab9fa10804324e5d06891bcb39d505ca241946006dc2cccbed9f",
+    "src/learning/review.ts": "bedf345b6e08c098074720f8c8271f338b57881623a47262cc2f854af21ae8f3",
+    "src/learning/scores.ts": "d571d80b233823457d855deadde0b5b683b5bbb312b73f482181f0701f8d8500",
+    "src/learning/unitProgress.ts": "d44191d8e0a77f3514c9ba8f6ebb6648dec5cd1701e66351a2f508d54a2d67f9",
+    "src/main.tsx": "47c7bd9d8900876a2bd3c608ea869e3372f89d3f565acdf08bd2e1c98f3276f5",
+    "src/persistence/schema.ts": "7b7b69ec4505108048554826d8172784d7bc24e1e1e0ea123783cc68e5bcf6b6",
+    "src/persistence/store.ts": "6f0dbc27e0f0e78d782c47ee0e56eeed4e8f7910b462793cbbe111b57dfe9cc2",
+    "src/physics/catalog.ts": "be5b1a6ac29aba9f5da6d4dd2867939168a673bb1c7d1f5e16d608760467825e",
+    "src/physics/circuit.ts": "004dd1e9ab3bc79d76983b18dca1a2ddbeb48a1d81eaaf29293438fadace5579",
+    "src/physics/circular.ts": "6d49496d4bf9aea855d18caecbb52a7d63c0f6c90a81247a84f8909dfe0833c3",
+    "src/physics/gas.ts": "b378b37d25952febc7a77dab0eb34f4087ac3eac8bb24557a74fd485282ab53a",
+    "src/physics/lightClock.ts": "90e220ecde8c03161ae63db483d0d464b2f6613c7cdd10fc44465d1a960a2589",
+    "src/physics/linear.ts": "af66b59d39662b07dbef101de1d02e2d13a1ac7e610f33da61a015bb86555f09",
+    "src/physics/measurements.ts": "6dcc1a643311239c0e84679851ee6fc349fad566db1b621e2af8452896067475",
+    "src/physics/ranges.ts": "58f427f02c00e22b6822d0a43ad21e06ce964c3a487a960b322d1a31486959fb",
+    "src/physics/units.ts": "e24513d455dd7f45fd04a4edfb82e85f27995b27af692ce465a3005e29f55041",
+    "src/studio/api.ts": "0e8c44c8d15d8b87db20168548277300eecaf10c42863b7f6db635270cab461b",
+    "src/studio/document.worker.ts": "71fa8aca62d5f0eb3244beb300ad09fa44f3a204e64dc1d3773ae503198ebe96",
+    "src/studio/documentValidation.ts": "e352f3b82e91dd59d39c50044e0fdb8bcf7b24fe8d991fb9f5fd9e5067b7cbd7",
+    "src/studio/documents.ts": "dd85a39c9a1a7ad4c05f7260d7664ff8624964d292935760233bc4f2b363dca7",
+    "src/studio/generated.ts": "c092749970d653da56adaa91af7970d1271804c0f5e111ef2c49d6a4de42d33d",
+    "src/studio/modules.ts": "5cf493ef41ae9f2e215e5ab575fd51564737afe4a66dc1dac71d721233779cb6",
+    "src/studio/prompts.ts": "5f58521198c0f9990595b13ff5c701b00f5d6fe9bc1ac14e190b57935f0ec39b",
+    "src/studio/schema.ts": "c379e88dbf59024c8ff630e008c634b6c1d7d30cc3caa1e78b6583d588605045",
+    "src/studio/vendor.d.ts": "811eceb1665405c10fc69f64096d695a958b0502bb8342579bdf82d81153ce3f",
+    "src/ui/AISettings.tsx": "492e40448ac9aad193ebad93bbdc5cb596ac0716abe4855eb63f899922ae244e",
+    "src/ui/AnatomyFigure.tsx": "2b539c3e22bd2d957a5267f793c24959fd4cbd6e9de18296c14bb34b63ca739b",
+    "src/ui/App.tsx": "9271f206462eae73aa1110ea3ed065b213b1f7330d2f695b5fd05408cdf0a6d0",
+    "src/ui/Assessment.tsx": "8ce707c525b5b2d3b9e8f29915f99a12c9ee4e5888c2b1b3ec1ce12ce3b7b270",
+    "src/ui/CodexConnection.tsx": "56c2fa71044e32b125f65305936109f3a5e536f48448fda3ebdd63f1abbd1b2f",
+    "src/ui/Course.tsx": "85dcbd557d552e3d7f9609de551d61559f15a95a213a3b680b29557c7a4d8755",
+    "src/ui/CourseCoverage.tsx": "89594d6da59641c315daea5e2fb8b57fc5f6c457bc4a6a25fd9fd32ea193eabb",
+    "src/ui/CourseStudio.tsx": "614cfe46df87fe911d93a401e05e6835e6627ede60baa8a221b780c69c022dd9",
+    "src/ui/CustomFigure.tsx": "7d709e6967510a32e09e3ccd4ad6436b38639dfec18cb631116c8a7475346c0b",
+    "src/ui/CustomLesson.tsx": "a8b42e3e92f7458550c7372ed67d4e13f306a0dbe19cc32a887abad8ced248c0",
+    "src/ui/DiagnosticHistory.tsx": "d28f672c36703509b5c3b276efaf17e5e7a31643eb146cd2e426cddbd380c0a5",
+    "src/ui/Diagnostics.tsx": "aec4cd65fe4edb0f4fa03edfe821ff114ee904a13a749b3d3afb1f7163c04f1f",
+    "src/ui/Formula.tsx": "5a1d026ffb68abe5283d35471132d95ee3d8791035e348dca7ea4409496a6c24",
+    "src/ui/Graph.tsx": "3de8b2117eb3ce46b32d9b7e7cfee30486224c2546727473265e186889d6c68b",
+    "src/ui/Lesson.tsx": "917768ca425dc55ab5c7abc240784c7ec7918002ec8b3aba2d7a71820b8a43b6",
+    "src/ui/LinearLab.tsx": "a5dc9749283e1e3e4532f96377712cabe84d80a38b04f05999222ca61b279624",
+    "src/ui/ModelLab.tsx": "7a09c0d0a8ab580a805522ad2c3f0eb54754e099bc57e484dbc264c78fa7ab55",
+    "src/ui/ModelResults.tsx": "9f6cce383594e7bdc9a7487936093bb7db23cf64a33200bf8ac130b1ec447eac",
+    "src/ui/ModelScene.tsx": "abd00f8058291d61b5ac05a32f5236fcebb43646db3394b4f2f8a9808d103d20",
+    "src/ui/ModuleLesson.tsx": "887245255b55d0a74a8c54c2ee7b9b65d8b7e3881c44dd2bba1c207569c86012",
+    "src/ui/ModuleScore.tsx": "1499dc9c8c2017bbdc75ee6012494357a8b52e26062625704ce7d66c66cb2f3b",
+    "src/ui/Parameter.tsx": "12acafa5398b1a1b0d20fb6ff09ef8cce6a8fc7d92b7c94b6867c22bd7ad2452",
+    "src/ui/Playground.tsx": "dae4db383eb5576788e8042a2e8494a176d7f0bfd4e2058783cf3bda334a17b9",
+    "src/ui/Results.tsx": "1e14c8acd2e279bc4b7d597a67c72459d37acf29ce5c7fcd15153fab87c6d2e0",
+    "src/ui/ReviewPanel.tsx": "b58d5af6c559b3fc2531608d180841800308c1742fefcef18fc08356baed3531",
+    "src/ui/Settings.tsx": "8c01de2f14ade6abe01c2e4aac8ab03f88fd0fb30473ba115c34a6ffd26a6f4d",
+    "src/ui/StudyChat.tsx": "c064c227e113d0587753f8cef1811974f5bd4cf2970e415b5b377caecc68a7e0",
+    "src/ui/StudyText.tsx": "55d2d0d899cc0452807a7b80474edfa5dfb253853f50c9cd58de5dba447e2ae5",
+    "src/ui/VectorControls.tsx": "eefa3fff24d2c79f652f3e435ffd40d376810760f9d2873817acb76fabd4a49a",
+    "src/ui/VelocityComparison.tsx": "cf166f9fcf8103dd3aeb76317eb78ffbd80f63b49f5e2dcbdff70acd7e163c8b",
+    "src/ui/VisualStudio.tsx": "55c59eaa9d34db6b1c78bda9d52007c1c14c4a55d83e622d7ef146d0effd1d60",
+    "src/ui/VisualizationLab.tsx": "7a98627d13e143fed4b23ca95c2e06bc2bed004e572909acc6301b7c78fcd4a1",
+    "src/ui/VisualizationMeasurements.tsx": "6a7c0929fcc009b4b449fb3069f63d27d86ac039e7dd1200bf3014a8e064f305",
+    "src/ui/VisualizationResults.tsx": "694efccbc83152d7c37d8bf893062680ec3f29e5b85122dd45c0b18e0c8844a3",
+    "src/ui/XYGraph.tsx": "fc1f90153bd9c9a7bc5665336d9be70d7bdd24ea84823d3631ccfea01cce367a",
+    "src/ui/styles.css": "f49025cd03b8ffa6f1305e47064e0854172ad4382948a7443855f44d1ac60b9b",
+    "src/ui/symbols.ts": "f84fd2eb0ef7a4e8d202ac06c143a6b13cf1a0ad2a2dc1ff3399d27fe1b25918",
+    "src/ui/usePlayback.ts": "58be6af260d99bc00708aa78a4be529e3a5eb44e786bf8aa757fc3174be0b30f",
+    "src/ui/useWorkspace.ts": "e8038dec9a1d1f12b947711e1f0c78f4e95640c7cad577c020947264b59a761e",
+    "server/api.ts": "fcbedfc27992850baf0a1a9c206dde47052223f3328289447d4ef26e36c1a270",
+    "server/codex-process.ts": "e5271709fc9d3caf0d002db793cd31d08cc598768e7ddf5dd61ebae2be311e68",
+    "server/codex.ts": "93fbf07352a209ef139e0d104c785f3c95ef58eca5d918903a4ecaf126d043b8",
+    "server/config.ts": "6d01fd246333f7d9c74233002c6a217f81a3aa91f857042e0d4e1d474fe6de5f",
+    "server/providers.ts": "b785bd4f3500a53f9b6e82732ab881f43b61813b9e0b855c7f75fe82cb2f8155",
+    "tests/advice.test.ts": "7836575be434045f49acc5f2f4bddabb1168cb50e5435672ecdf2e1f30f93c89",
+    "tests/ai-api.test.ts": "4f19471f9ba153d23d4ee01aada56865af624988481c02485632dcc746d77334",
+    "tests/anatomy.test.ts": "36d567dbe37c29b6c9314c9de0d5cc58d37a60d74cbccbbc51b91736081a04f3",
+    "tests/codex.test.ts": "66068f02d5b995af62e88493f9b19c2ff193ef664052aeb92b399c557b9d964d",
+    "tests/documents.test.ts": "bca379fc692f0002e70059ebdfe46f8e5b1cb58d85c502a270c3b7058e23c4a7",
+    "tests/generated.test.ts": "44e24a26915680627711e4bae7c673ac603b8e7d7a7d1f3c4282eb214721d240",
+    "tests/learning.test.ts": "fe70a1769496f3753e727bb6f91278edad38f6cfa956603f3156adb3a7d79de9",
+    "tests/linear.test.ts": "be1650eb9635a4e615588bdc5c1792fed6edfdd04a0db848aceaeb2eff89bdcb",
+    "tests/model-advice.test.ts": "81bb653f33ae2a09b1f846d21cd6b01d9047079118e665e3d7f4f55b7f79c410",
+    "tests/models.test.ts": "d657265986baca8e7651d776deaa73db2da8ae5123035826f6f39db4f4cb69b9",
+    "tests/module-content.test.ts": "3a6e1406e9031dbca43ca2d21f33fc859b1b958f298fe1661954f55c67557463",
+    "tests/persistence.test.ts": "a72d45c873b8f164261050e401e6ba10ae6c6b5576fcad2f087ba5b08d705903",
+    "tests/providers.test.ts": "3ac75edea45c6734df8a96c7e2c8d595b4b640afe476d4b1a65189c30a109c55",
+    "tests/review.test.ts": "ff4c2b56bd519a9a5f83af9dbfbc062976d412362e893cbb9d7fff723f248afb",
+    "tests/scene.test.ts": "a5063ea32869d97d4a518b7ad8ce8308335a87dc0f3d9b85c6f0fe7805e8f63d",
+    "tests/scores.test.ts": "5e54550fb56594f0b8bf38e203e75d443281892d353f4f8c0992a9dcaba28e7f",
+    "tests/studio.test.ts": "df099583f18248a7135c45cf063880b4355438296cec0a300149241a9636bb76",
+    "tests/units.test.ts": "eabd8d76b282da705c267b74c3ae91de2c9f4ca5f07206bd0fb506cfa65eea51",
+    "tests/visualization-experiments.test.ts": "527af1e3d2d43d715ea9796cf7a1b8672a8db1f51fc7c2a7a55a4e76ef1ecc5e",
+    "e2e/accessibility.spec.ts": "2eca3f6f0726b9f30be023a2188d22f530d3bfb8e2ce6762786358f8af4fd26c",
+    "e2e/codex.spec.ts": "c06059eafc52d8df361b1663fad908be2dc7c703f8e635a97d12c28b75f86788",
+    "e2e/data.spec.ts": "f3514e60630b22fb07f8110d345c002adf69729fd2f3405fa8332d793afbecc6",
+    "e2e/diagnostics.spec.ts": "a1b3b106d629e66d86ef931a732bb46f606ae090e9544295883d22d7bf814cae",
+    "e2e/fixtures/workspace-harness.tsx": "1cb64e14905c16687586308925e319223414aea590bcbf2133ee5c762ed53a45",
+    "e2e/import-selection.spec.ts": "b4a3c50a946b6ae1f01dfb4508a40d40d5982c99dad7aaaf8c595b4fce5e1c3d",
+    "e2e/k1.spec.ts": "db7fb312640c081fafc5389b71897d53df37934e042bc5cec94faf41e4f393a2",
+    "e2e/measurement-presets.spec.ts": "460688597fb34a75e91427efe49391d1d5e4ebe557fc9360f03aa9a353b6199a",
+    "e2e/model-controls.spec.ts": "e1ab0eb5390ac75015932561bf0141f647f3342a47e81da111daaa1089c2983b",
+    "e2e/models.spec.ts": "9f604b892a6eec0da7733e6a4dd7737b56f3f798711fadb7e7e9702057f23d4c",
+    "e2e/modules.spec.ts": "be09efd98e28877db9a3d98b2d494be06318d6eb311ba6772e4a195f2a5a33a5",
+    "e2e/playback-frame.spec.ts": "3f1aed6b2a413edc3c764f766c5e9bf40bd443709dd65f211246074c9987dc4a",
+    "e2e/playground.spec.ts": "74070799e196a1c010e44a72890a22eaafe942cf47d25c80f6adc053acc595ee",
+    "e2e/review.spec.ts": "4d57c93d7e67d2d74da64d8567a9539a6348c9501e495d58a483bb1b2952f303",
+    "e2e/studio.spec.ts": "d7fc5aec27d34e7bbe0a8bba69b0f818ad02798171431819de5febb023d38d4c",
+    "e2e/vector-view.spec.ts": "4d44d36a0e7dccc717037dcc8e6bb9b70b3c3cdcff0f71e04813fca74bd12c14",
+    "e2e/visualization-research.spec.ts": "8b7a252e9376400e001d720ff93870e97d93c88b59f51f514f0c69e723615754",
+    "e2e/workspace-validation.spec.ts": "86b331f25ac1feaf860403e4b6b9cdf6951431d759118000ed935327f1cd4915",
+    "package.json": "ec5775d7bc1ba9762d6d184516190d2ff4283b32cd33997b06d55a2735dfad5e",
+    "package-lock.json": "6559fd32cc68204f6b154291c51e9ac4853dc97ae4be9e90ef52c41c3238f9b8",
+    "playwright.config.ts": "3997e039fc870d7ccf082a95800a11fbb7d39e66c04070da38395c8ba7ceebe3",
+    "playwright.chrome.config.ts": "e7c1d08bcd9f1bed649ab58685a10a02425cee19646a103e976ceb22aa903183"
+  },
+  "scope": "Полный текущий набор 47 сценариев. Проверяет технические пути приложения. Не подтверждает обучение пользователя, повторение через сутки, педагогическую оценку или работу Safari."
+}

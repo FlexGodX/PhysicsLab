@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-16",
+  "projectId": "appgprj_6ad14fbd2644819193834e118d716bb7",
+  "commit": "6df28926b0b731f8d0cf7cc0db292a304918710c",
+  "versionId": "appgprj_6ad14fbd2644819193834e118d716bb7~appgver_365a4fcb119881919c300ad7a96b23cf",
+  "deploymentId": "appgdep_6ad15744c3208191b440e73dfb0c470b",
+  "status": "succeeded",
+  "url": "https://physics-in-action-lab.young-isle-4822.chatgpt.site",
+  "audience": "public, preserved from access revision 2",
+  "environmentRevision": 2,
+  "providers": [
+    "OpenRouter",
+    "OpenAI",
+    "Anthropic",
+    "Gemini",
+    "DeepSeek",
+    "Qwen",
+    "NVIDIA NIM",
+    "Ollama"
+  ],
+  "unitTests": 106,
+  "browserScenarios": 11,
+  "build": "passed",
+  "typechecks": "passed",
+  "storage": "D1: ai_provider_settings, ai_provider_preferences; AES-256-GCM; random IV; AAD user and provider; no keys returned to browser or backup",
+  "authentication": "Requires Sites authenticated visitor identity; no shared-owner fallback. Public pages do not authorize API usage.",
+  "liveCatalog": {
+    "provider": "OpenRouter",
+    "models": 465,
+    "httpStatus": 200,
+    "paidRequest": false
+  },
+  "limitations": "No real provider keys supplied. Inference transports verified with mocked provider responses; paid inference not tested. Ollama requires Cloud or publicly reachable HTTPS origin.",
+  "fixes": [
+    "Workers redirect mode changed to manual; redirects rejected by status",
+    "Qwen catalog shape and pagination",
+    "Cross-user and cross-provider key isolation",
+    "Credential retained on blank input and deleted only explicitly",
+    "Changing origin requires a new key or deletion"
+  ],
+  "sources": [
+    "https://openrouter.ai/docs/api/api-reference/models/list-all-models-and-their-properties",
+    "https://docs.ollama.com/cloud",
+    "https://api-docs.deepseek.com/api/list-models/",
+    "https://www.alibabacloud.com/help/en/model-studio/list-models",
+    "https://www.alibabacloud.com/help/en/model-studio/base-url",
+    "https://docs.api.nvidia.com/nim/reference/llm-apis"
+  ],
+  "livePublishedUI": "Settings opened on the deployed URL; API-key field enabled; OpenRouter catalog loaded 465 models through the deployed server.",
+  "screenshot": "2026-10-16-provider-settings.png"
+}

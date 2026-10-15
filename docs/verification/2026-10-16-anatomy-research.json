@@ -1,0 +1,76 @@
+{
+  "at": "2026-10-15T21:28:58.061Z",
+  "passed": true,
+  "provider": "codex",
+  "generationMs": 72818,
+  "model": "Работа постоянной силы: лабораторная тележка",
+  "parts": 46,
+  "controls": [
+    {
+      "id": "f",
+      "label": "Сила, Н",
+      "min": 0,
+      "max": 10,
+      "value": 5,
+      "step": 1
+    },
+    {
+      "id": "s",
+      "label": "Перемещение, м",
+      "min": 0,
+      "max": 5,
+      "value": 1,
+      "step": 0.5
+    }
+  ],
+  "readouts": [
+    {
+      "label": "Работа постоянной силы",
+      "expression": "f*s",
+      "unit": "Дж"
+    },
+    {
+      "label": "Приложенная сила вдоль рельсов",
+      "expression": "f",
+      "unit": "Н"
+    },
+    {
+      "label": "Перемещение тележки",
+      "expression": "s",
+      "unit": "м"
+    }
+  ],
+  "samples": 11,
+  "first": {
+    "parameters": {
+      "f": 5,
+      "s": 0
+    },
+    "readings": [
+      0,
+      5,
+      0
+    ],
+    "capturedAt": "2026-10-15T21:28:56.898Z"
+  },
+  "last": {
+    "parameters": {
+      "f": 5,
+      "s": 5
+    },
+    "readings": [
+      25,
+      5,
+      5
+    ],
+    "capturedAt": "2026-10-15T21:28:56.899Z"
+  },
+  "mobileOverflow": false,
+  "pageErrors": [],
+  "scope": "Настоящий ответ Codex получен через локальный сервис; для браузерного прогона воспроизведён этот ответ. Отдельный контекст без данных пользователя. Полный аудит геометрии произвольной сцены не выполнялся.",
+  "screenshots": [
+    "/tmp/physics-anatomy-research-desktop.png",
+    "/tmp/physics-anatomy-research-mobile.png",
+    "/tmp/physics-anatomy-research-figure.png"
+  ]
+}

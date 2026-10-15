@@ -1,0 +1,2238 @@
+{
+  "date": "2026-10-15T17:29:30.306Z",
+  "scope": "Rounded slab support, penetration and actual slab painter order at sampled poses; bevel faces, screws and spring wire are excluded",
+  "states": [
+    {
+      "mechanism": "spring",
+      "pose": 0,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "springArt:19",
+            "back": "springArt:24",
+            "frontKey": 19,
+            "backKey": 24,
+            "cells": 959,
+            "area": 51.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 19.99039077758789,
+            "at": [
+              239.25,
+              183.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "carriageArt:27",
+            "back": "carriageArt:30",
+            "frontKey": 27,
+            "backKey": 30,
+            "cells": 1191,
+            "area": 63.5625,
+            "against": 0,
+            "cycle": false,
+            "depth": 8.787507057189941,
+            "at": [
+              292,
+              184.75
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 25,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "springArt:19",
+            "back": "springArt:24",
+            "frontKey": 19,
+            "backKey": 24,
+            "cells": 959,
+            "area": 51.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 19.99039077758789,
+            "at": [
+              239.25,
+              183.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "carriageArt:27",
+            "back": "carriageArt:30",
+            "frontKey": 27,
+            "backKey": 30,
+            "cells": 1192,
+            "area": 63.6875,
+            "against": 0,
+            "cycle": false,
+            "depth": 8.789116621017456,
+            "at": [
+              315.5,
+              193
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 50,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "springArt:19",
+            "back": "springArt:24",
+            "frontKey": 19,
+            "backKey": 24,
+            "cells": 959,
+            "area": 51.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 19.99039077758789,
+            "at": [
+              239.25,
+              183.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "carriageArt:27",
+            "back": "carriageArt:30",
+            "frontKey": 27,
+            "backKey": 30,
+            "cells": 1201,
+            "area": 64.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 8.791326522827148,
+            "at": [
+              323,
+              207.5
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 75,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "springArt:19",
+            "back": "springArt:24",
+            "frontKey": 19,
+            "backKey": 24,
+            "cells": 959,
+            "area": 51.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 19.99039077758789,
+            "at": [
+              239.25,
+              183.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "carriageArt:27",
+            "back": "carriageArt:30",
+            "frontKey": 27,
+            "backKey": 30,
+            "cells": 1190,
+            "area": 63.5,
+            "against": 0,
+            "cycle": false,
+            "depth": 8.78493881225586,
+            "at": [
+              340.75,
+              218
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 100,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "springArt:19",
+            "back": "springArt:24",
+            "frontKey": 19,
+            "backKey": 24,
+            "cells": 959,
+            "area": 51.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 19.99039077758789,
+            "at": [
+              239.25,
+              183.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "carriageArt:27",
+            "back": "carriageArt:30",
+            "frontKey": 27,
+            "backKey": 30,
+            "cells": 1193,
+            "area": 63.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 8.786548614501953,
+            "at": [
+              364.25,
+              226.25
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 10,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:27",
+            "frontKey": 17,
+            "backKey": 27,
+            "cells": 367,
+            "area": 15.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.37226486206055,
+            "at": [
+              285.75,
+              159.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:28",
+            "frontKey": 17,
+            "backKey": 28,
+            "cells": 1397,
+            "area": 77.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.379647731781006,
+            "at": [
+              283.5,
+              154.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:29",
+            "frontKey": 17,
+            "backKey": 29,
+            "cells": 2486,
+            "area": 143.25,
+            "against": 0,
+            "cycle": false,
+            "depth": 38.490888595581055,
+            "at": [
+              292.5,
+              159.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:30",
+            "frontKey": 17,
+            "backKey": 30,
+            "cells": 3575,
+            "area": 209.5,
+            "against": 0,
+            "cycle": false,
+            "depth": 33.9083833694458,
+            "at": [
+              291.5,
+              157.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:32",
+            "frontKey": 17,
+            "backKey": 32,
+            "cells": 122,
+            "area": 5.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.6009063720703125,
+            "at": [
+              271,
+              149.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:34",
+            "frontKey": 17,
+            "backKey": 34,
+            "cells": 367,
+            "area": 15.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.368812561035156,
+            "at": [
+              342,
+              195.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:35",
+            "frontKey": 17,
+            "backKey": 35,
+            "cells": 1393,
+            "area": 76.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.37581253051758,
+            "at": [
+              346,
+              194.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:36",
+            "frontKey": 17,
+            "backKey": 36,
+            "cells": 2484,
+            "area": 143.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 38.21910858154297,
+            "at": [
+              354,
+              199.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:37",
+            "frontKey": 17,
+            "backKey": 37,
+            "cells": 3574,
+            "area": 209.4375,
+            "against": 0,
+            "cycle": false,
+            "depth": 33.97810745239258,
+            "at": [
+              352.25,
+              197.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:39",
+            "frontKey": 17,
+            "backKey": 39,
+            "cells": 127,
+            "area": 5.4375,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.534149169921875,
+            "at": [
+              331.5,
+              188
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:19",
+            "frontKey": 18,
+            "backKey": 19,
+            "cells": 29,
+            "area": 0.6875,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9723052978515625,
+            "at": [
+              235.5,
+              120
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:20",
+            "frontKey": 18,
+            "backKey": 20,
+            "cells": 23,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9841184616088867,
+            "at": [
+              262.75,
+              137.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:21",
+            "frontKey": 18,
+            "backKey": 21,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9413862228393555,
+            "at": [
+              289.25,
+              154.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:22",
+            "frontKey": 18,
+            "backKey": 22,
+            "cells": 24,
+            "area": 0.4375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9174156188964844,
+            "at": [
+              316.5,
+              172
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:23",
+            "frontKey": 18,
+            "backKey": 23,
+            "cells": 28,
+            "area": 0.625,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9590835571289062,
+            "at": [
+              343,
+              189.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:24",
+            "frontKey": 18,
+            "backKey": 24,
+            "cells": 21,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.927703857421875,
+            "at": [
+              370.25,
+              206.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:25",
+            "frontKey": 18,
+            "backKey": 25,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.8969192504882812,
+            "at": [
+              397.5,
+              224
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:29",
+            "frontKey": 18,
+            "backKey": 29,
+            "cells": 382,
+            "area": 16.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.61534309387207,
+            "at": [
+              292.5,
+              157.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:30",
+            "frontKey": 18,
+            "backKey": 30,
+            "cells": 524,
+            "area": 23.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.73503875732422,
+            "at": [
+              292.5,
+              156.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:36",
+            "frontKey": 18,
+            "backKey": 36,
+            "cells": 378,
+            "area": 15.875,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.343563079833984,
+            "at": [
+              354,
+              197.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:37",
+            "frontKey": 18,
+            "backKey": 37,
+            "cells": 522,
+            "area": 23.25,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.761260986328125,
+            "at": [
+              354,
+              196.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:29",
+            "frontKey": 21,
+            "backKey": 29,
+            "cells": 106,
+            "area": 4,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              284.75,
+              152
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:30",
+            "frontKey": 21,
+            "backKey": 30,
+            "cells": 406,
+            "area": 21,
+            "against": 0,
+            "cycle": false,
+            "depth": 28.000000953674316,
+            "at": [
+              287.75,
+              150.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:23",
+            "back": "loadArt:36",
+            "frontKey": 23,
+            "backKey": 36,
+            "cells": 77,
+            "area": 2.5625,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.000003814697266,
+            "at": [
+              341.25,
+              188.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:23",
+            "back": "loadArt:37",
+            "frontKey": 23,
+            "backKey": 37,
+            "cells": 409,
+            "area": 21.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 28.000003814697266,
+            "at": [
+              340.75,
+              188
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 20,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:27",
+            "frontKey": 17,
+            "backKey": 27,
+            "cells": 367,
+            "area": 15.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.37226486206055,
+            "at": [
+              285.75,
+              159.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:28",
+            "frontKey": 17,
+            "backKey": 28,
+            "cells": 1397,
+            "area": 77.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.379647731781006,
+            "at": [
+              283.5,
+              154.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:29",
+            "frontKey": 17,
+            "backKey": 29,
+            "cells": 2486,
+            "area": 143.25,
+            "against": 0,
+            "cycle": false,
+            "depth": 38.490888595581055,
+            "at": [
+              292.5,
+              159.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:30",
+            "frontKey": 17,
+            "backKey": 30,
+            "cells": 3575,
+            "area": 209.5,
+            "against": 0,
+            "cycle": false,
+            "depth": 33.9083833694458,
+            "at": [
+              291.5,
+              157.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:32",
+            "frontKey": 17,
+            "backKey": 32,
+            "cells": 122,
+            "area": 5.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.6009063720703125,
+            "at": [
+              271,
+              149.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:34",
+            "frontKey": 17,
+            "backKey": 34,
+            "cells": 365,
+            "area": 15.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.36728286743164,
+            "at": [
+              367,
+              211.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:35",
+            "frontKey": 17,
+            "backKey": 35,
+            "cells": 1391,
+            "area": 76.625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.374664306640625,
+            "at": [
+              364.75,
+              206.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:36",
+            "frontKey": 17,
+            "backKey": 36,
+            "cells": 2479,
+            "area": 142.875,
+            "against": 0,
+            "cycle": false,
+            "depth": 38.01116180419922,
+            "at": [
+              374.25,
+              211.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:37",
+            "frontKey": 17,
+            "backKey": 37,
+            "cells": 3571,
+            "area": 209.25,
+            "against": 0,
+            "cycle": false,
+            "depth": 33.93980407714844,
+            "at": [
+              373.75,
+              209.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:39",
+            "frontKey": 17,
+            "backKey": 39,
+            "cells": 127,
+            "area": 5.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.595924377441406,
+            "at": [
+              352.25,
+              201.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:19",
+            "frontKey": 18,
+            "backKey": 19,
+            "cells": 29,
+            "area": 0.6875,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9723052978515625,
+            "at": [
+              235.5,
+              120
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:20",
+            "frontKey": 18,
+            "backKey": 20,
+            "cells": 23,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9841184616088867,
+            "at": [
+              262.75,
+              137.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:21",
+            "frontKey": 18,
+            "backKey": 21,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9413862228393555,
+            "at": [
+              289.25,
+              154.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:22",
+            "frontKey": 18,
+            "backKey": 22,
+            "cells": 24,
+            "area": 0.4375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9174156188964844,
+            "at": [
+              316.5,
+              172
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:23",
+            "frontKey": 18,
+            "backKey": 23,
+            "cells": 28,
+            "area": 0.625,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9590835571289062,
+            "at": [
+              343,
+              189.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:24",
+            "frontKey": 18,
+            "backKey": 24,
+            "cells": 21,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.927703857421875,
+            "at": [
+              370.25,
+              206.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:25",
+            "frontKey": 18,
+            "backKey": 25,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.8969192504882812,
+            "at": [
+              397.5,
+              224
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:29",
+            "frontKey": 18,
+            "backKey": 29,
+            "cells": 382,
+            "area": 16.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.61534309387207,
+            "at": [
+              292.5,
+              157.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:30",
+            "frontKey": 18,
+            "backKey": 30,
+            "cells": 524,
+            "area": 23.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.73503875732422,
+            "at": [
+              292.5,
+              156.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:36",
+            "frontKey": 18,
+            "backKey": 36,
+            "cells": 376,
+            "area": 15.8125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.135616302490234,
+            "at": [
+              374.25,
+              210
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:37",
+            "frontKey": 18,
+            "backKey": 37,
+            "cells": 520,
+            "area": 23.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.63862228393555,
+            "at": [
+              374.25,
+              209.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:29",
+            "frontKey": 21,
+            "backKey": 29,
+            "cells": 106,
+            "area": 4,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              284.75,
+              152
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:30",
+            "frontKey": 21,
+            "backKey": 30,
+            "cells": 406,
+            "area": 21,
+            "against": 0,
+            "cycle": false,
+            "depth": 28.000000953674316,
+            "at": [
+              287.75,
+              150.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:24",
+            "back": "loadArt:36",
+            "frontKey": 24,
+            "backKey": 36,
+            "cells": 107,
+            "area": 4.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.000003814697266,
+            "at": [
+              367,
+              204.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:24",
+            "back": "loadArt:37",
+            "frontKey": 24,
+            "backKey": 37,
+            "cells": 408,
+            "area": 21,
+            "against": 0,
+            "cycle": false,
+            "depth": 28.000003814697266,
+            "at": [
+              367.75,
+              202.75
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 30,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:27",
+            "frontKey": 17,
+            "backKey": 27,
+            "cells": 367,
+            "area": 15.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.37226486206055,
+            "at": [
+              285.75,
+              159.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:28",
+            "frontKey": 17,
+            "backKey": 28,
+            "cells": 1397,
+            "area": 77.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.379647731781006,
+            "at": [
+              283.5,
+              154.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:29",
+            "frontKey": 17,
+            "backKey": 29,
+            "cells": 2486,
+            "area": 143.25,
+            "against": 0,
+            "cycle": false,
+            "depth": 38.490888595581055,
+            "at": [
+              292.5,
+              159.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:30",
+            "frontKey": 17,
+            "backKey": 30,
+            "cells": 3575,
+            "area": 209.5,
+            "against": 0,
+            "cycle": false,
+            "depth": 33.9083833694458,
+            "at": [
+              291.5,
+              157.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:32",
+            "frontKey": 17,
+            "backKey": 32,
+            "cells": 122,
+            "area": 5.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.6009063720703125,
+            "at": [
+              271,
+              149.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:34",
+            "frontKey": 17,
+            "backKey": 34,
+            "cells": 364,
+            "area": 15.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.366127014160156,
+            "at": [
+              385.75,
+              223.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:35",
+            "frontKey": 17,
+            "backKey": 35,
+            "cells": 1387,
+            "area": 76.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.373512268066406,
+            "at": [
+              383.5,
+              218.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:36",
+            "frontKey": 17,
+            "backKey": 36,
+            "cells": 2477,
+            "area": 142.75,
+            "against": 0,
+            "cycle": false,
+            "depth": 37.795066833496094,
+            "at": [
+              394.5,
+              224.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:37",
+            "frontKey": 17,
+            "backKey": 37,
+            "cells": 3569,
+            "area": 209.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 34.033241271972656,
+            "at": [
+              394.5,
+              222.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:39",
+            "frontKey": 17,
+            "backKey": 39,
+            "cells": 124,
+            "area": 5.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.5106201171875,
+            "at": [
+              372.5,
+              214.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:19",
+            "frontKey": 18,
+            "backKey": 19,
+            "cells": 29,
+            "area": 0.6875,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9723052978515625,
+            "at": [
+              235.5,
+              120
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:20",
+            "frontKey": 18,
+            "backKey": 20,
+            "cells": 23,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9841184616088867,
+            "at": [
+              262.75,
+              137.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:21",
+            "frontKey": 18,
+            "backKey": 21,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9413862228393555,
+            "at": [
+              289.25,
+              154.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:22",
+            "frontKey": 18,
+            "backKey": 22,
+            "cells": 24,
+            "area": 0.4375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9174156188964844,
+            "at": [
+              316.5,
+              172
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:23",
+            "frontKey": 18,
+            "backKey": 23,
+            "cells": 28,
+            "area": 0.625,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9590835571289062,
+            "at": [
+              343,
+              189.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:24",
+            "frontKey": 18,
+            "backKey": 24,
+            "cells": 21,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.927703857421875,
+            "at": [
+              370.25,
+              206.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:25",
+            "frontKey": 18,
+            "backKey": 25,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.8969192504882812,
+            "at": [
+              397.5,
+              224
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:29",
+            "frontKey": 18,
+            "backKey": 29,
+            "cells": 382,
+            "area": 16.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.61534309387207,
+            "at": [
+              292.5,
+              157.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:30",
+            "frontKey": 18,
+            "backKey": 30,
+            "cells": 524,
+            "area": 23.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.73503875732422,
+            "at": [
+              292.5,
+              156.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:36",
+            "frontKey": 18,
+            "backKey": 36,
+            "cells": 376,
+            "area": 15.8125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              381,
+              213.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:37",
+            "frontKey": 18,
+            "backKey": 37,
+            "cells": 521,
+            "area": 23.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.919517517089844,
+            "at": [
+              394.5,
+              222.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:29",
+            "frontKey": 21,
+            "backKey": 29,
+            "cells": 106,
+            "area": 4,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              284.75,
+              152
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:30",
+            "frontKey": 21,
+            "backKey": 30,
+            "cells": 406,
+            "area": 21,
+            "against": 0,
+            "cycle": false,
+            "depth": 28.000000953674316,
+            "at": [
+              287.75,
+              150.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:25",
+            "back": "loadArt:36",
+            "frontKey": 25,
+            "backKey": 36,
+            "cells": 46,
+            "area": 1.5,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              393,
+              221
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:25",
+            "back": "loadArt:37",
+            "frontKey": 25,
+            "backKey": 37,
+            "cells": 64,
+            "area": 2.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.919517517089844,
+            "at": [
+              394.5,
+              222.5
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 40,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "baseArt:10",
+            "back": "baseArt:11",
+            "frontKey": 10,
+            "backKey": 11,
+            "cells": 15,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9111251831054688,
+            "at": [
+              171.5,
+              179.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:27",
+            "frontKey": 17,
+            "backKey": 27,
+            "cells": 367,
+            "area": 15.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.37226486206055,
+            "at": [
+              285.75,
+              159.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:28",
+            "frontKey": 17,
+            "backKey": 28,
+            "cells": 1397,
+            "area": 77.0625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.379647731781006,
+            "at": [
+              283.5,
+              154.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:29",
+            "frontKey": 17,
+            "backKey": 29,
+            "cells": 2486,
+            "area": 143.25,
+            "against": 0,
+            "cycle": false,
+            "depth": 38.490888595581055,
+            "at": [
+              292.5,
+              159.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:30",
+            "frontKey": 17,
+            "backKey": 30,
+            "cells": 3575,
+            "area": 209.5,
+            "against": 0,
+            "cycle": false,
+            "depth": 33.9083833694458,
+            "at": [
+              291.5,
+              157.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "leverArt:32",
+            "frontKey": 17,
+            "backKey": 32,
+            "cells": 122,
+            "area": 5.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.6009063720703125,
+            "at": [
+              271,
+              149.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:34",
+            "frontKey": 17,
+            "backKey": 34,
+            "cells": 122,
+            "area": 4.5625,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.30205535888672,
+            "at": [
+              402.5,
+              234.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:35",
+            "frontKey": 17,
+            "backKey": 35,
+            "cells": 746,
+            "area": 39.875,
+            "against": 0,
+            "cycle": false,
+            "depth": 39.330284118652344,
+            "at": [
+              403,
+              231
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:36",
+            "frontKey": 17,
+            "backKey": 36,
+            "cells": 1823,
+            "area": 103.5625,
+            "against": 0,
+            "cycle": false,
+            "depth": 34.00000762939453,
+            "at": [
+              404,
+              230.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:37",
+            "frontKey": 17,
+            "backKey": 37,
+            "cells": 3293,
+            "area": 192.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 26.00000762939453,
+            "at": [
+              404,
+              230.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:17",
+            "back": "loadArt:39",
+            "frontKey": 17,
+            "backKey": 39,
+            "cells": 123,
+            "area": 5.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 5.614471435546875,
+            "at": [
+              392.5,
+              227
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:19",
+            "frontKey": 18,
+            "backKey": 19,
+            "cells": 29,
+            "area": 0.6875,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9723052978515625,
+            "at": [
+              235.5,
+              120
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:20",
+            "frontKey": 18,
+            "backKey": 20,
+            "cells": 23,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9841184616088867,
+            "at": [
+              262.75,
+              137.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:21",
+            "frontKey": 18,
+            "backKey": 21,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9413862228393555,
+            "at": [
+              289.25,
+              154.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:22",
+            "frontKey": 18,
+            "backKey": 22,
+            "cells": 24,
+            "area": 0.4375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9174156188964844,
+            "at": [
+              316.5,
+              172
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:23",
+            "frontKey": 18,
+            "backKey": 23,
+            "cells": 28,
+            "area": 0.625,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.9590835571289062,
+            "at": [
+              343,
+              189.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:24",
+            "frontKey": 18,
+            "backKey": 24,
+            "cells": 21,
+            "area": 0.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.927703857421875,
+            "at": [
+              370.25,
+              206.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:25",
+            "frontKey": 18,
+            "backKey": 25,
+            "cells": 22,
+            "area": 0.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 1.8969192504882812,
+            "at": [
+              397.5,
+              224
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:29",
+            "frontKey": 18,
+            "backKey": 29,
+            "cells": 382,
+            "area": 16.125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36.61534309387207,
+            "at": [
+              292.5,
+              157.25
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "leverArt:30",
+            "frontKey": 18,
+            "backKey": 30,
+            "cells": 524,
+            "area": 23.375,
+            "against": 0,
+            "cycle": false,
+            "depth": 35.73503875732422,
+            "at": [
+              292.5,
+              156.75
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:36",
+            "frontKey": 18,
+            "backKey": 36,
+            "cells": 111,
+            "area": 4.3125,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              401,
+              226.5
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:18",
+            "back": "loadArt:37",
+            "frontKey": 18,
+            "backKey": 37,
+            "cells": 234,
+            "area": 10.1875,
+            "against": 0,
+            "cycle": false,
+            "depth": 28,
+            "at": [
+              397.25,
+              224
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:29",
+            "frontKey": 21,
+            "backKey": 29,
+            "cells": 106,
+            "area": 4,
+            "against": 0,
+            "cycle": false,
+            "depth": 36,
+            "at": [
+              284.75,
+              152
+            ],
+            "unorderable": false
+          },
+          {
+            "state": 0,
+            "label": "share 0",
+            "front": "leverArt:21",
+            "back": "leverArt:30",
+            "frontKey": 21,
+            "backKey": 30,
+            "cells": 406,
+            "area": 21,
+            "against": 0,
+            "cycle": false,
+            "depth": 28.000000953674316,
+            "at": [
+              287.75,
+              150.25
+            ],
+            "unorderable": false
+          }
+        ],
+        "passing": [],
+        "missing": []
+      }
+    }
+  ]
+}

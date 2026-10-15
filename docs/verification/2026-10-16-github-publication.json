@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-16",
+  "repository": "https://github.com/FlexGodX/PhysicsLab",
+  "sourceFilesBeforeReport": 442,
+  "checks": {
+    "privateRuntimePathsExcluded": true,
+    "stagedSourceComparedWithLocalSecrets": "no matches",
+    "providerKeysGithubTokensPrivateKeysAwsKeysJwtPatterns": "no findings",
+    "credentialUrlFixturesReviewed": [
+      "tests/provider-platform.test.ts",
+      "tests/providers.test.ts"
+    ],
+    "screenshotsInspected": 6,
+    "embeddedGitlinks": 0,
+    "readmeLocalLinks": "valid",
+    "cleanInstallRoot": "passed",
+    "cleanInstallHosted": "passed",
+    "unitTests": 111,
+    "rootBuild": "passed",
+    "hostedTypecheck": "passed",
+    "hostedBuild": "passed"
+  },
+  "excluded": [
+    "API keys and login tokens",
+    "local and hosted environment files",
+    "local databases and user history",
+    "original user and LMS documents",
+    "dependencies and generated builds"
+  ],
+  "history": "First source commit; no prior commits in this GitHub repository."
+}

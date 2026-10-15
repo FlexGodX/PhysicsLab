@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-16",
+  "unit": {
+    "files": 20,
+    "passed": 87
+  },
+  "browser": {
+    "project": "installed Chrome",
+    "passed": 49,
+    "failed": 0,
+    "skipped": 0,
+    "durationSeconds": 33.2
+  },
+  "build": "tsc -b && vite build: успешно",
+  "sourceAccess": {
+    "browser": "Safari",
+    "resourceFiles": 24,
+    "lectureLinks": 22,
+    "courseGroups": 3,
+    "studyTopics": 27,
+    "questions": 135
+  },
+  "safariUi": "В Safari проверены каталог, поиск «Динамика вращательного» и открытие темы с источниками; личные данные не изменялись.",
+  "privacy": {
+    "privatePdfRequestStatus": 403,
+    "originalPdfInDist": 0
+  },
+  "manualAcceptance": "Исключена из обязательных условий по поручению пользователя. Физический мобильный Safari и педагогическая эффективность не подтверждались.",
+  "files": {
+    "src/content/lms/inventory.ts": "fe3acd43408d9febe86984cdd0b42ec848c92a541052bcc8bef75816bb515e26",
+    "src/content/lms/mechanics.ts": "3d225883eac50e13cde133cce46a31c01ee5aa5f9b2c026e8e1ddce6dea12fc6",
+    "src/content/lms/thermal.ts": "cb4815df9fcab8fe1acb50338c7dd41e7232e4a9e95efac312e525e20047400c",
+    "src/content/lms/electric.ts": "2316361a7dceb35b7271faa33a9b151a211925869b675f45590b6acaa81a8bbd",
+    "src/content/lms/build.ts": "adf2b1775f4e6925d29906757de90c473de29059ed6c7e5d0a66813a13582aee",
+    "src/content/lms/catalog.ts": "d559e1fcc1db4ab3538272f10dbe622b808b5c6284f684be962363fe259ab790",
+    "src/studio/moduleCatalog.ts": "90dabb16e764c00c4505429a2a59edbb860b951f8a1021676db4ec59fe4c126c",
+    "src/persistence/schema.ts": "2797e505ffa977b8cef035293d0d656d46322a79e625fa2c088ea999add01ece",
+    "src/ui/LmsCourse.tsx": "ed4de13107d8c7f2de187b8028db30a5616453aaa8cc0c1a974056d80b70d15f",
+    "src/ui/CustomLesson.tsx": "9b969928b5e4bbbed7ba6ae2cf5f15ae6127a4e3673418d43cb346490525194f",
+    "src/ui/StudyChat.tsx": "d9c17597abf4081cc2027da45814831b4d7da16c23aa9a6cce18f16b903ab2ed",
+    "src/ui/VisualizationLab.tsx": "be8fda6e5193894ebc88f78f60810904ed7a35a8e6439dc5b85eebc90754585e",
+    "src/ui/VisualizationResults.tsx": "43a9013cee14d54213c7445e40dd27f6f7986a73135ce568d4fd4068716857c3",
+    "src/ui/Results.tsx": "62594d4e9a322cbc0b39fcb598ce6bc6024181b08a710b64aae4054624a8eeff"
+  }
+}

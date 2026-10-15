@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-15T17:38:06.250Z",
+  "scope": "Rounded slab support and penetration only; bevel faces, screws, spring wire and painter order are not certified",
+  "states": [
+    {
+      "mechanism": "spring",
+      "pose": 0,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "wire": {
+        "terminals": [
+          {
+            "tube": "spring-wire",
+            "end": "start",
+            "at": [
+              -98,
+              7,
+              25
+            ],
+            "d": 0,
+            "high": 0.2704734656491752,
+            "low": -0.02791496341854227,
+            "nearest": "springArt:19"
+          },
+          {
+            "tube": "spring-wire",
+            "end": "end",
+            "at": [
+              -38,
+              7,
+              24.999999999999982
+            ],
+            "d": 0,
+            "high": 0.2704734656491752,
+            "low": -0.2704734656491752,
+            "nearest": "carriageArt:30"
+          }
+        ],
+        "clearances": [
+          {
+            "tube": "spring-wire",
+            "other": "carriageArt:30",
+            "kind": "through",
+            "clearance": -0.06892928173656038,
+            "need": 0.2,
+            "at": [
+              -38.20408163265306,
+              6.710017266709666,
+              23.5421583528949
+            ],
+            "from": 438.1013674023747,
+            "to": 439.601714551013,
+            "length": 441.1020616996513,
+            "state": ""
+          }
+        ]
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 25,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "wire": {
+        "terminals": [
+          {
+            "tube": "spring-wire",
+            "end": "start",
+            "at": [
+              -98,
+              7,
+              25
+            ],
+            "d": 0,
+            "high": 0.26798857488806505,
+            "low": -0.020564026971687355,
+            "nearest": "springArt:19"
+          },
+          {
+            "tube": "spring-wire",
+            "end": "end",
+            "at": [
+              -13,
+              7,
+              24.999999999999982
+            ],
+            "d": 0,
+            "high": 0.2679885748880668,
+            "low": -0.2679885748880668,
+            "nearest": "carriageArt:30"
+          }
+        ],
+        "clearances": [
+          {
+            "tube": "spring-wire",
+            "other": "carriageArt:30",
+            "kind": "close",
+            "clearance": 0.013505939542976797,
+            "need": 0.2,
+            "at": [
+              -13.286516853932595,
+              6.712623853076306,
+              23.55526254747555
+            ],
+            "from": 443.1912622700578,
+            "to": 443.6914781416944,
+            "length": 445.19212575660436,
+            "state": ""
+          }
+        ]
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 50,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "wire": {
+        "terminals": [
+          {
+            "tube": "spring-wire",
+            "end": "start",
+            "at": [
+              -98,
+              7,
+              25
+            ],
+            "d": 0,
+            "high": 0.2647523165958461,
+            "low": -0.013445262675656267,
+            "nearest": "springArt:19"
+          },
+          {
+            "tube": "spring-wire",
+            "end": "end",
+            "at": [
+              12,
+              7,
+              24.999999999999982
+            ],
+            "d": 0,
+            "high": 0.26475231659584075,
+            "low": -0.26475231659584075,
+            "nearest": "carriageArt:30"
+          }
+        ],
+        "clearances": [
+          {
+            "tube": "spring-wire",
+            "other": "carriageArt:30",
+            "kind": "close",
+            "clearance": 0.09324879704211825,
+            "need": 0.2,
+            "at": [
+              11.633740288568264,
+              6.7161323298978095,
+              23.572900851557502
+            ],
+            "from": 449.1335835540712,
+            "to": 449.1335835540712,
+            "length": 450.6340298242964,
+            "state": ""
+          }
+        ]
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 75,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "wire": {
+        "terminals": [
+          {
+            "tube": "spring-wire",
+            "end": "start",
+            "at": [
+              -98,
+              7,
+              25
+            ],
+            "d": 0,
+            "high": 0.26084771423322195,
+            "low": -0.006609330399445668,
+            "nearest": "springArt:19"
+          },
+          {
+            "tube": "spring-wire",
+            "end": "end",
+            "at": [
+              37,
+              7,
+              24.999999999999982
+            ],
+            "d": 0,
+            "high": 0.26084771423321484,
+            "low": -0.26084771423321484,
+            "nearest": "carriageArt:30"
+          }
+        ],
+        "clearances": [
+          {
+            "tube": "spring-wire",
+            "other": "carriageArt:30",
+            "kind": "close",
+            "clearance": 0.16961203643005057,
+            "need": 0.2,
+            "at": [
+              36.55737704918033,
+              6.720475660369318,
+              23.594736248364267
+            ],
+            "from": 455.8799188520621,
+            "to": 455.8799188520621,
+            "length": 457.37952384828594,
+            "state": ""
+          }
+        ]
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 100,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "wire": {
+        "terminals": [
+          {
+            "tube": "spring-wire",
+            "end": "start",
+            "at": [
+              -98,
+              7,
+              25
+            ],
+            "d": 0,
+            "high": 0.25636785730462464,
+            "low": -0.00009576599879679293,
+            "nearest": "springArt:19"
+          },
+          {
+            "tube": "spring-wire",
+            "end": "end",
+            "at": [
+              62,
+              7,
+              24.999999999999982
+            ],
+            "d": 0,
+            "high": 0.25636785730463174,
+            "low": -0.25636785730463174,
+            "nearest": "carriageArt:30"
+          }
+        ],
+        "clearances": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 10,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "lever",
+      "pose": 20,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "lever",
+      "pose": 30,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    },
+    {
+      "mechanism": "lever",
+      "pose": 40,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": []
+    }
+  ]
+}

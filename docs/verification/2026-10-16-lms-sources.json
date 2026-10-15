@@ -1,0 +1,277 @@
+{
+  "courseUrl": "https://lms.sfedu.ru/course/view.php?id=1216",
+  "verifiedDate": "2026-10-16",
+  "title": "Материалы по физике для задолжников 2026",
+  "method": "Оглавление просмотрено в Safari; 24 PDF скачаны средствами Safari. Текст извлечён локально со всех страниц. Предметная адаптация составлена по тематическим фрагментам; независимая постраничная рецензия всех слайдов не проводилась.",
+  "lectureScope": "У 22 лекций проверены названия и ссылки в оглавлении. Открыта первая лекция об обработке измерений; оцениваемые попытки не возобновлялись, ответы не отправлялись. Полное интерактивное содержание лекций не скопировано.",
+  "modules": 27,
+  "groups": {
+    "mechanics": 11,
+    "thermal": 8,
+    "electric": 8
+  },
+  "questions": 135,
+  "resources": [
+    {
+      "id": "30022",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30022",
+      "pages": 61,
+      "chars": 27448,
+      "sha256": "98301fae2434433e662393b8878fbf428540d827f79c013c5716e5fe21290268"
+    },
+    {
+      "id": "30023",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30023",
+      "pages": 33,
+      "chars": 17113,
+      "sha256": "6dfa739573db56291aaf828da2b03acbcd25ba8ceba02eb2bed170eead213a7b"
+    },
+    {
+      "id": "30024",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30024",
+      "pages": 37,
+      "chars": 22899,
+      "sha256": "8d685c68b9bdba9b5548a9bbf79af82160ace8b0af66d716e803be2cbba8fde3"
+    },
+    {
+      "id": "30025",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30025",
+      "pages": 4,
+      "chars": 6620,
+      "sha256": "9cd7e57ef865e38f255bc55f93a24155a8918c3a023b984e1b0c64d5ece73469"
+    },
+    {
+      "id": "30026",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30026",
+      "pages": 43,
+      "chars": 21458,
+      "sha256": "3f8dee24bcf079b9ee68bda874eb79bca01047507038faa9783b42df98c0333f"
+    },
+    {
+      "id": "30027",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30027",
+      "pages": 3,
+      "chars": 5367,
+      "sha256": "2dae14ad1d9465f5f65a40a5a73588d603b67a13fbe3e979ff9618d200e5960d"
+    },
+    {
+      "id": "30028",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30028",
+      "pages": 2,
+      "chars": 4268,
+      "sha256": "821314f95851bb3cca89c9a75fce9bcbca1ef48514f4329ea04cbe7d4f9f9529"
+    },
+    {
+      "id": "30029",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30029",
+      "pages": 4,
+      "chars": 8488,
+      "sha256": "83d9fefcfadd4bf0bf175570422d2107e56ba4a6b4bd91118beba2e7275f574e"
+    },
+    {
+      "id": "30030",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30030",
+      "pages": 60,
+      "chars": 39644,
+      "sha256": "af3bd583a404f70240362f914dea0e7394550910e1ea4ce53b881712799b6904"
+    },
+    {
+      "id": "30032",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30032",
+      "pages": 38,
+      "chars": 18659,
+      "sha256": "2c6d38831e719c207aebc57880122fdf68658b193635e1b021e02e64e590920c"
+    },
+    {
+      "id": "30033",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30033",
+      "pages": 3,
+      "chars": 3997,
+      "sha256": "584adcc59b394482a33580edb048d1d0250a72b9712c20430ee7199d9a6376d4"
+    },
+    {
+      "id": "30034",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30034",
+      "pages": 60,
+      "chars": 24977,
+      "sha256": "5f36584ae85a8893fdfa09071400de7ee2da2137a372658979a63731e2c8c022"
+    },
+    {
+      "id": "30035",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30035",
+      "pages": 3,
+      "chars": 4639,
+      "sha256": "a158dd4f4fdd13b7b28805bf4c0de9582aa4bed6cb432326f29a36221738b369"
+    },
+    {
+      "id": "30036",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30036",
+      "pages": 39,
+      "chars": 15613,
+      "sha256": "26c2357cdba315fa43e8bb184fb0f06792c137841156f873eba37897e570535c"
+    },
+    {
+      "id": "30037",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30037",
+      "pages": 39,
+      "chars": 15613,
+      "sha256": "26c2357cdba315fa43e8bb184fb0f06792c137841156f873eba37897e570535c"
+    },
+    {
+      "id": "30038",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30038",
+      "pages": 41,
+      "chars": 18697,
+      "sha256": "35cd1b39d0d33b8d274c18b8d304ae9f912f1413ff8bba49f61ccec5a7364249"
+    },
+    {
+      "id": "30039",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30039",
+      "pages": 21,
+      "chars": 9237,
+      "sha256": "3225e85fd37a487ebc90f9db5b2929f6676b08b3df69364b87ffcffbbac68b5e"
+    },
+    {
+      "id": "30041",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30041",
+      "pages": 52,
+      "chars": 22074,
+      "sha256": "812be83301763f9a517210676054e5bc475da0274c67fedcc8970f29f12fc232"
+    },
+    {
+      "id": "30042",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30042",
+      "pages": 23,
+      "chars": 9667,
+      "sha256": "4c677b72a264de76ea9d32bae303a2c688fdd0a6945cc931b346a2125ce6d8fd"
+    },
+    {
+      "id": "30043",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30043",
+      "pages": 31,
+      "chars": 15670,
+      "sha256": "ccc66eb4ed421bda29dc076ec68b3855212cd78c7aac207de6a8cb350d726f4f"
+    },
+    {
+      "id": "30044",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30044",
+      "pages": 11,
+      "chars": 5996,
+      "sha256": "031c154140040a5b0bbe7175c3f6ac3ac6a9e536fe48e998b0a5d9b84e8b7494"
+    },
+    {
+      "id": "30045",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30045",
+      "pages": 28,
+      "chars": 11772,
+      "sha256": "9e7f1e07bcf36917d72d88459cd6a9fb6183e8b2d341f228aa3dc9614f8ad3a3"
+    },
+    {
+      "id": "30046",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30046",
+      "pages": 35,
+      "chars": 15265,
+      "sha256": "fa17238efe41e8ca787dfce7474b8a46aede932b1a161b780aaaeb52fe84516d"
+    },
+    {
+      "id": "30047",
+      "url": "https://lms.sfedu.ru/mod/resource/view.php?id=30047",
+      "pages": 47,
+      "chars": 20850,
+      "sha256": "ac279c3ce82c4e765c48f010cb61dd949d0f572344c7ed2842216dd5428bf922"
+    }
+  ],
+  "uniquePdfHashes": 23,
+  "lectures": [
+    {
+      "id": "30048",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30048"
+    },
+    {
+      "id": "30049",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30049"
+    },
+    {
+      "id": "30050",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30050"
+    },
+    {
+      "id": "30051",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30051"
+    },
+    {
+      "id": "30052",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30052"
+    },
+    {
+      "id": "30053",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30053"
+    },
+    {
+      "id": "30054",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30054"
+    },
+    {
+      "id": "30055",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30055"
+    },
+    {
+      "id": "30056",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30056"
+    },
+    {
+      "id": "30057",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30057"
+    },
+    {
+      "id": "30058",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30058"
+    },
+    {
+      "id": "30059",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30059"
+    },
+    {
+      "id": "30060",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30060"
+    },
+    {
+      "id": "30061",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30061"
+    },
+    {
+      "id": "30062",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30062"
+    },
+    {
+      "id": "30063",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30063"
+    },
+    {
+      "id": "30064",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30064"
+    },
+    {
+      "id": "30065",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30065"
+    },
+    {
+      "id": "30066",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30066"
+    },
+    {
+      "id": "30067",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30067"
+    },
+    {
+      "id": "30068",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30068"
+    },
+    {
+      "id": "30069",
+      "url": "https://lms.sfedu.ru/mod/lesson/view.php?id=30069"
+    }
+  ],
+  "progress": "Оценки и отметки выполнения LMS не импортировались. Сохраняются собственные результаты приложения.",
+  "privateFiles": "Исходные файлы находятся в .lms-source, исключены из Git и раздачи Vite. В dist исходных PDF нет."
+}

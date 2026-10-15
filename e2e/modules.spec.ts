@@ -1,0 +1,9 @@
+import {test,expect} from '@playwright/test';
+test('T1 открывается из курса, проверяется и сохраняет самостоятельное подтверждение',async({page})=>{
+ await page.goto('/');await page.getByRole('button',{name:'Открыть T1'}).click();await expect(page.getByRole('heading',{name:'Идеальный газ и энергетический баланс',exact:true})).toBeVisible();await page.getByRole('tab',{name:'Проверка'}).click();
+ for(const answer of ['A > 0, Q > 0','Газ дополнительно совершает работу расширения','0,005 м³']){await page.getByRole('radio',{name:answer,exact:true}).check();await page.getByRole('button',{name:'Проверить ответ'}).click();await page.getByRole('button',{name:'Следующее задание'}).click();}
+ await page.getByRole('textbox',{name:'Число',exact:true}).fill('110');await page.getByRole('combobox',{name:'Единица ответа'}).selectOption('Дж');await page.getByRole('button',{name:'Проверить ответ'}).click();await page.getByRole('button',{name:'Следующее задание'}).click();await page.getByRole('radio',{name:'Увеличится',exact:true}).check();await page.getByRole('button',{name:'Проверить ответ'}).click();await page.getByRole('button',{name:'Показать итог'}).click();await expect(page.getByRole('heading',{name:'Понимание подтверждено заданиями'})).toBeVisible();await page.reload();await expect(page.getByRole('button',{name:'Открыть T1'})).toContainText('Подтверждено заданиями');
+});
+test('каждый модуль открывает свою лабораторию',async({page})=>{
+ await page.goto('/');for(const [unit,heading] of [['K2','Движение по окружности'],['M1','Повторные измерения'],['R1','Световые часы'],['E1','Ток и сопротивление']]){await page.getByRole('button',{name:`Открыть ${unit}`}).click();await page.getByRole('tab',{name:'Эксперимент'}).click();await expect(page.getByRole('heading',{name:heading,exact:true}).first()).toBeVisible();await page.getByRole('button',{name:'Курс',exact:true}).click();}
+});

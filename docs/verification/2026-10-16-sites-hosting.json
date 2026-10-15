@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-16",
+  "projectId": "appgprj_6ad14fbd2644819193834e118d716bb7",
+  "deploymentId": "appgdep_6ad151d8186881918a871cea6514b913",
+  "versionId": "appgprj_6ad14fbd2644819193834e118d716bb7~appgver_68660a1d8b6c81919ba74d30546a914c",
+  "commit": "e8c6892ed54ef0bad31e56a7fe9938ee476eb54e",
+  "url": "https://physics-in-action-lab.young-isle-4822.chatgpt.site",
+  "audience": "owner-private",
+  "nativeStatus": "succeeded",
+  "unitTests": 91,
+  "previewScenarios": 10,
+  "productionBundleScenarios": 9,
+  "typecheck": "passed",
+  "build": "passed",
+  "archiveSha256": "98ccf1099352b0d3e875be527ff26358fec5c2ea6d9e3acfa850cb9d02a243ac",
+  "hostedBrowser": "Опубликованное приложение открыто во вкладке Codex: видны каталог 27 тем, поиск, маршруты и навигация. В отдельном браузерном сеансе без авторизации показан вход ChatGPT. Пароли и вход университета не использовались.",
+  "ai": "Внешние сервисы требуют ключей в секретах Sites; реальные запросы не выполнялись. Codex CLI и LM Studio остаются в локальной версии.",
+  "privacy": "Не передавались личная история, .physics-lab, .lms-source или вход университета. Прогресс на новом домене переносится JSON-копией."
+}

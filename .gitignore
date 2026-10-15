@@ -1,0 +1,29 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+.env*
+
+.physics-lab/
+
+.lms-source/
+
+# Runtime state and credentials of the hosted application.
+.dev.vars*
+.wrangler/
+.sites-runtime/
+.next/
+.vinext/
+coverage/
+*.log
+
+# Private key material and provider login files.
+*.pem
+*.key
+*.p12
+*.pfx
+auth.json
+providers.json
+secrets/

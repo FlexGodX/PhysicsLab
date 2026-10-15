@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-15T16:49:40.981Z",
+  "browser": "155.0.8059.39",
+  "mode": "installed Chrome, headed, isolated persistent profile",
+  "url": "http://127.0.0.1:5174/",
+  "restart": {
+    "passed": true,
+    "attempts": 1,
+    "experiments": 1,
+    "exactSnapshotEqual": true
+  },
+  "performance": {
+    "model": "circular",
+    "viewport": "1440x1000",
+    "sliderLatencyMs": {
+      "samples": [
+        10,
+        14.199999999254942,
+        14.099999997764826,
+        14.399999998509884,
+        12.5,
+        16,
+        14.400000002235174,
+        14.400000002235174,
+        12,
+        16.199999999254942,
+        14,
+        13.099999997764826,
+        14.600000001490116,
+        17.100000001490116,
+        13.300000000745058,
+        16,
+        14.300000000745058,
+        15.099999997764826,
+        14.800000000745058,
+        14.5
+      ],
+      "maximum": 17.100000001490116,
+      "mean": 14.25
+    },
+    "animation": {
+      "durationMs": 3004.7999999992553,
+      "frames": 181,
+      "scenePositionChanges": 89,
+      "visible": true
+    },
+    "sceneUpdatesPerSecond": 29.619275825353455,
+    "measurement": "input event to changed readout observed at animation frame; SVG position changes per visible animation frame, not display scanout"
+  },
+  "pageErrors": []
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-15T17:31:51.099Z",
+  "scope": "Rounded slab support, penetration and actual slab painter order at sampled poses; bevel faces, screws and spring wire are excluded",
+  "states": [
+    {
+      "mechanism": "spring",
+      "pose": 0,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 25,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 50,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 75,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 100,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 10,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 20,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 30,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 40,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      }
+    }
+  ]
+}

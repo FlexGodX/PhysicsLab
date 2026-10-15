@@ -1,0 +1,5170 @@
+{
+  "date": "2026-10-15T17:49:32.562Z",
+  "sourceHashes": {
+    "src/figures/geometry.tsx": "3133e4afdd02828fb3b07378e91f32ae8d7508e023b21a8bf43d02c29b2a411f",
+    "src/figures/springWire.ts": "2b291322062dabbc0daeea95fe0c3a21c6f59939fa0a3299bd59a924f64ef7bb",
+    "src/figures/kit/iso-kit.ts": "e9fc988c61a11bfac1f097e62419915ea86b2130ab091f1b50c0e019c907e253",
+    "src/ui/AnatomyFigure.tsx": "3a03f19fae43bb08d5c0657f50319b6ae2fcce17637830c46ca288ba5b5e4ad6"
+  },
+  "fullChecks": true,
+  "sampling": "Every integer slider value; not a proof over continuous time",
+  "scope": "Production polygon support, penetration, spring terminals and clearance, and painter order including the wire; 2D inset strokes and screw glyphs are checked visually and by the separate line check",
+  "states": [
+    {
+      "mechanism": "spring",
+      "pose": 0,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 1,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 2,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 3,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 4,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 5,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 6,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 7,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 8,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 9,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 10,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 11,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 12,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 13,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 14,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 15,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 16,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 17,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 18,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 19,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 20,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 21,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 22,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 23,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 24,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 25,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 26,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 27,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 28,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 29,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 30,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 31,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 32,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 33,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 34,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 35,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 36,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 37,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 38,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 39,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 40,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 41,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 42,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 43,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 44,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 45,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 46,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 47,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 48,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 49,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 50,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 51,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 52,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 53,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 54,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 55,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 56,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 57,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 58,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 59,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 60,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 61,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 62,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 63,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 64,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 65,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 66,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 67,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 68,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 69,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 70,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 71,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 72,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 73,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 74,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 75,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 76,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 77,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 78,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 79,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 80,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 81,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 82,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 83,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 84,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 85,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 86,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 87,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 88,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 89,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 90,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 91,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 92,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 93,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 94,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 95,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 96,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 97,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 98,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 99,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "spring",
+      "pose": 100,
+      "solids": 33,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "wire": {
+        "terminals": [],
+        "clearances": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 10,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 11,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 12,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 13,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 14,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 15,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 16,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 17,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 18,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 19,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 20,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 21,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 22,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 23,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 24,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 25,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 26,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 27,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 28,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 29,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 30,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 31,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 32,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 33,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 34,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 35,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 36,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 37,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 38,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 39,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    },
+    {
+      "mechanism": "lever",
+      "pose": 40,
+      "solids": 40,
+      "loose": [],
+      "hanging": [],
+      "sunk": [],
+      "depth": {
+        "problems": [],
+        "passing": [],
+        "missing": []
+      },
+      "complete": {
+        "clearance": [],
+        "apart": [],
+        "flight": [],
+        "crowding": [],
+        "cover": [],
+        "terminals": [],
+        "loose": [],
+        "folds": [],
+        "self": [],
+        "wobble": [],
+        "seats": [],
+        "supports": {
+          "loose": [],
+          "hanging": [],
+          "sunk": []
+        },
+        "depth": {
+          "problems": [],
+          "passing": [],
+          "missing": []
+        }
+      }
+    }
+  ]
+}

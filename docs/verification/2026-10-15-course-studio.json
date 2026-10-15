@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-15",
+  "version": "0.2.0",
+  "unit": {
+    "files": 17,
+    "tests": 63,
+    "passed": true
+  },
+  "browser": {
+    "engine": "Playwright Chromium",
+    "scenarios": 31,
+    "passed": true,
+    "latest_studio_recheck": 5
+  },
+  "build": "passed",
+  "live_provider": {
+    "name": "LM Studio",
+    "model": "qwen/qwen3.5-9b",
+    "chat": "passed",
+    "module": {
+      "sections": 3,
+      "questions": 5
+    },
+    "visualizations": [
+      "spring",
+      "custom"
+    ],
+    "custom": {
+      "parts": 42,
+      "formula": "5*s",
+      "s": 10,
+      "work_J": 50,
+      "page_errors": [],
+      "overflow_at_390px": false,
+      "geometry_quality": "review_required"
+    }
+  },
+  "cloud_live_tests": "not_run_without_keys",
+  "anatomy_line_ends": {
+    "spring_rest": 0,
+    "spring_full_stroke": 0,
+    "lever_rest": 0,
+    "lever_full_stroke": 0
+  },
+  "full_geometry_audit": "not_completed"
+}

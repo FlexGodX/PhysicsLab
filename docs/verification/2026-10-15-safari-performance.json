@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-15T20:36:24.236Z",
+  "mode": "Safari WebDriver isolated automation window",
+  "url": "http://127.0.0.1:5174/",
+  "checks": {},
+  "performance": [],
+  "scope": "macOS Safari; not a physical iPhone/iPad test",
+  "passed": false,
+  "error": "Could not create a session: You must enable 'Allow remote automation' in the Developer section of Safari Settings to control Safari via WebDriver."
+}
